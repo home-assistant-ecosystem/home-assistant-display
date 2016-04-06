@@ -41,5 +41,5 @@ License
 ``home-assistant-display`` is licensed under MIT, for more details check
 LICENSE.
 
-.. |screenshot| https://raw.githubusercontent.com/fabaff/home-assistant-display/master/ha-display.png
+.. |screenshot| image:: https://raw.githubusercontent.com/fabaff/home-assistant-display/master/ha-display.png
    :target: https://github.com/fabaff/home-assistant-display
