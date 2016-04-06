@@ -2,7 +2,8 @@ Home Assistant Display
 ======================
 
 `Home Assistant <https://home-assistant.io>`__ ships its own very nice
-web frontend. This prototype shows how 
+web frontend. This prototype shows an option to display values without
+the possibility of interacting with Home Assistant by the user. 
 
 Installation
 ------------
@@ -32,6 +33,7 @@ Now the web site is available at http://[your_hass_host]:8123/local/index.html
 
 Screenshot
 ----------
+
 |screenshot|
 
 License
